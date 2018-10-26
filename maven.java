@@ -1,1 +1,2 @@
-Build should be done automatically 
+Build should be done automatically
+done  
